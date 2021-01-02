@@ -1,6 +1,8 @@
 # codesForC++
 This contains all the codes which I will write for learning C++
 
+Lec 10: Recursion\
+Lec 9: Pass by value and Pass by reference\
 Lec 8: Function overloading\
 Lec 7: Functions\
 Lec 6: Nested control flow\
