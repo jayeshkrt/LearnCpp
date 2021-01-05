@@ -1,6 +1,9 @@
 # codesForC++
 This contains all the codes which I have written for learning C++
 
+Lec 13: Classes and Objects\
+Lec 13a: Structures\
+Lec 12: Arrays\
 Lec 11: Pointers\
 Lec 10: Recursion\
 Lec 9: Pass by value and Pass by reference\
